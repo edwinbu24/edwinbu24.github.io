@@ -1,0 +1,11 @@
+---
+title: "Welcome to My Website"
+author: "Edwin Leck"
+date: "2025-02-05"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website.  
